@@ -1,0 +1,6 @@
+#V1 F 0.7
+#V2 F 0
+
+#E1 1 2 W1
+
+#Persistence 0.9

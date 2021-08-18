@@ -1,0 +1,15 @@
+
+#N 4
+
+#V1 F 0
+#V2 F 0.4
+#V3 F 0.1
+#V4 F 0.6
+#V5 F 0.5
+
+#E1 1 2 W1
+#E2 2 3 W3
+#E3 3 4 W3
+#E4 2 4 W4
+#E5 2 5 W2
+#Ppersistence 0.9    ; Set persistence probability to 0.9

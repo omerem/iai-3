@@ -1,0 +1,35 @@
+Tasks:
+	1. Add "F"'s to input. - Omer
+	
+	- class CPT (conditional probability table) - Arnon
+		fields:
+			- vaiables
+			- evidences
+	
+	2. class BayesianNode - Arnon
+		The fields are:
+			- a graph
+			- probabili....
+			- cpt
+			- time
+		The methods:
+			- calcProb()
+			- addEvidence
+
+	
+	3. to add to the class "Vertex" a	field of "probability of evacuees" - Omer
+	4. to add to class "Edge" a field of "" - Omer
+	5. add to environemnt the interactive menu (printings) - Omer
+	
+Questions:
+	1. What to do with the evidences?
+	2. What is the probability of unblocked path? How to alculate.
+	
+	
+	
+	
+	
+	
+	
+	
+	
